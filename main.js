@@ -45,7 +45,9 @@ const getToBed = function(arr){
   return everyoneWakeUp
 }
 
-
+const Faqtory = function(){
+return obj= {}
+}
 
 
 if (typeof makeRunOn === 'undefined') {
